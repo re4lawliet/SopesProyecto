@@ -1,0 +1,17 @@
+usr=juanr&amp;nom=Juan Rodriguez&amp;txt=hola estoy feliz de estar aquí en el #lago 
+usr=lolalinda&amp;nom=Lolita Turres&amp;txt=hola estoy feliz de estar aquí en la #ciudad
+usr=fish_carlos&amp;nom=Carlos Monterroso&amp;txt=hola estoy feliz de verte #amigos
+usr=nowel123&amp;nom=Nowel 123&amp;txt=hola como as estado deceo comprar algo #compra
+usr=Ray123&amp;nom=Ray 123&amp;txt=mi paiz es el mejor #pais
+usr=juan_perez&amp;nom=Juan Perez&amp;txt=estoy en antigua #lugares
+usr=carlos_perez&amp;nom=Carlos Perez&amp;txt=vendo iphone 6 en 1600 #ventas
+usr=david_perez&amp;nom=David Perez&amp;txt=estoy en el cine viendo una pelicula #peliculas
+usr=alvaro_garcia&amp;nom=Alvaro Garcia&amp;txt=estoy en miraflores #centros
+usr=quique_garcia&amp;nom=Enrique Garcia&amp;txt=estoy en algun lugar de un gran pais #viajes
+
+
+
+http://34.67.161.177:3000/api/tweet?usr=carlos_perez&nom=Carlos Perez&txt=vendo iphone 666 en 1600 %23ventas
+
+
+http://34.67.161.177:3000/api/tweet?usr=christsoldier92;nom=Ramon%20Osvaldo%20Patzan%20Caballeros;txt=porfavor%20%23desamor
